@@ -1,0 +1,38 @@
+16:18:09.830 [main] INFO  factory.BaseClass - ----Opening zigwheels site----
+16:18:10.466 [main] INFO  factory.BaseClass - ----Selecting HBcoming Bikes and Page navigates----
+16:18:17.441 [main] INFO  factory.BaseClass - ----Selecting Honda Bikes----
+16:18:20.179 [main] INFO  factory.BaseClass - ----Extracting details of selected Honda bikes----
+16:18:26.225 [main] INFO  factory.BaseClass - ----Navigating back to home page----
+16:18:27.881 [main] INFO  factory.BaseClass - ----Selecting Used Cars from Chenneai----
+16:18:34.164 [main] INFO  factory.BaseClass - ----Exracting the Popular Model List----
+16:18:34.660 [main] INFO  factory.BaseClass - ----Clicking on Login/signup button----
+16:18:36.805 [main] INFO  factory.BaseClass - ----Selecting Google to login to the account----
+16:18:39.783 [main] INFO  factory.BaseClass - ----Giving Invalid Email Id----
+16:18:42.732 [main] INFO  factory.BaseClass - ----Extracting the Error Message Displayed----
+17:28:35.564 [main] INFO  factory.BaseClass - ----Opening zigwheels site----
+17:28:36.664 [main] INFO  factory.BaseClass - ----Selecting HBcoming Bikes and Page navigates----
+17:28:48.165 [main] INFO  factory.BaseClass - ----Selecting Honda Bikes----
+17:28:51.937 [main] INFO  factory.BaseClass - ----Extracting details of selected Honda bikes----
+17:28:59.893 [main] INFO  factory.BaseClass - ----Navigating back to home page----
+17:29:02.122 [main] INFO  factory.BaseClass - ----Selecting Used Cars from Chenneai----
+17:29:18.455 [main] INFO  factory.BaseClass - ----Exracting the Popular Model List----
+17:29:19.325 [main] INFO  factory.BaseClass - ----Clicking on Login/signup button----
+17:29:22.302 [main] INFO  factory.BaseClass - ----Selecting Google to login to the account----
+17:29:28.307 [main] INFO  factory.BaseClass - ----Giving Invalid Email Id----
+17:29:31.387 [main] INFO  factory.BaseClass - ----Extracting the Error Message Displayed----
+10:11:48.715 [main] INFO  factory.BaseClass - ----Opening zigwheels site----
+10:11:49.033 [main] INFO  factory.BaseClass - ----Selecting HBcoming Bikes and Page navigates----
+10:11:59.446 [main] INFO  factory.BaseClass - ----Navigating back to home page----
+10:12:02.328 [main] INFO  factory.BaseClass - ----Selecting Used Cars from Chenneai----
+10:12:12.600 [main] INFO  factory.BaseClass - ----Clicking on Login/signup button----
+10:12:57.697 [main] INFO  factory.BaseClass - ----Opening zigwheels site----
+10:12:57.991 [main] INFO  factory.BaseClass - ----Selecting HBcoming Bikes and Page navigates----
+10:13:24.962 [main] INFO  factory.BaseClass - ----Selecting Honda Bikes----
+10:13:27.891 [main] INFO  factory.BaseClass - ----Extracting details of selected Honda bikes----
+10:13:37.625 [main] INFO  factory.BaseClass - ----Navigating back to home page----
+10:13:39.270 [main] INFO  factory.BaseClass - ----Selecting Used Cars from Chenneai----
+10:13:59.101 [main] INFO  factory.BaseClass - ----Exracting the Popular Model List----
+10:14:00.240 [main] INFO  factory.BaseClass - ----Clicking on Login/signup button----
+10:14:06.182 [main] INFO  factory.BaseClass - ----Selecting Google to login to the account----
+10:14:24.712 [main] INFO  factory.BaseClass - ----Giving Invalid Email Id----
+10:14:28.759 [main] INFO  factory.BaseClass - ----Extracting the Error Message Displayed----
